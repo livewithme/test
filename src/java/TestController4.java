@@ -1,6 +1,6 @@
 package java;
 
 public class TestController4 {
-  历史性问题
+  private int a = 0;
   
 }
